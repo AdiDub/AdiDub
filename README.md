@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Aditya Dubey</h2>
 <h3>I'm Information Technology student from India, currently learning web development with React.js and RESTful/GraphQL APIs in Node.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amand33p&label=Profile%20views&color=0e75b6&style=flat" alt="amand33p" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amand33p&label=Profile%20views&color=0e75b6&style=flat" alt="AdiDub" /> </p>
 
 - 🌱 I’m currently learning nodejs and GraphQL.
 
